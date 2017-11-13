@@ -1,0 +1,7 @@
+.qmake.stash
+Makefile
+*.o
+bubbleRobClient
+bubbleRobClient.exe
+Makefile.Debug
+Makefile.Release
