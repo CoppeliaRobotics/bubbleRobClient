@@ -1,7 +1,7 @@
 QT -= core
 QT -= gui
 
-TARGET = bubbleRobClient
+TARGET = bubbleRobClient_remoteApi
 TEMPLATE = app
 
 DEFINES -= UNICODE

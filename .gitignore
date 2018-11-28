@@ -1,6 +1,7 @@
 .qmake.stash
 Makefile
 *.o
+*.pro.user
 bubbleRobClient
 bubbleRobClient.exe
 Makefile.Debug
