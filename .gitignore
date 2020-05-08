@@ -2,8 +2,8 @@
 Makefile
 *.o
 *.pro.user
-bubbleRobClient
-bubbleRobClient.exe
+bubbleRobClient_remoteApi
+bubbleRobClient_remoteApi.exe
 Makefile.Debug
 Makefile.Release
 release
