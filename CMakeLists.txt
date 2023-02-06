@@ -22,7 +22,7 @@ find_package(CoppeliaSim 4.5.0.0 REQUIRED)
 coppeliasim_add_executable(bubbleRobClient_remoteApi
     SOURCES
     bubbleRobClient.cpp
-    ${COPPELIASIM_INCLUDE_DIR}/shared_memory.c
+    ${COPPELIASIM_INCLUDE_DIR}/simLib/shared_memory.c
     ../remoteApi/extApi.c
     ../remoteApi/extApiPlatform.c
 )
