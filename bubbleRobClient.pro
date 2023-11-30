@@ -53,7 +53,7 @@ INCLUDEPATH += "../include"
 INCLUDEPATH += "../remoteApi"
 
 SOURCES += \
-    bubbleRobClient.cpp \
+    sourceCode/bubbleRobClient.cpp \
     ../remoteApi/extApi.c \
     ../remoteApi/extApiPlatform.c \
     ../common/shared_memory.c
